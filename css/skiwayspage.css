@@ -1,0 +1,33 @@
+body {
+    font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-bottom: 105px; /* footer-height */
+    background: #2196F3;
+    color: #fff;
+}
+
+.navbar {
+	background: #1565C0;
+	color: #fff;
+}
+
+a {
+	color: #fff !important;
+}
+
+.navbar-toggle {
+	border-color: #1565C0 !important;
+}
+
+.icon-bar {
+	color: #fff !important;
+	background: #fff !important;
+}
+
+.main-container {
+	margin-top: 50px;
+	padding: 20px;
+}
+
+.main-container > h1{
+	text-align: center;
+}
